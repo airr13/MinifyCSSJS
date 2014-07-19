@@ -1,0 +1,7 @@
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\bin\MinifyCSS.exe
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\bin\MinifyCSS.pdb
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\obj\Debug\MinifyCSS.exe
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\obj\Debug\MinifyCSS.pdb
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\bin\Release\MinifyCSS.exe
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\bin\Release\MinifyCSS.pdb
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\bin\Release\MinifyCSS.exe.config

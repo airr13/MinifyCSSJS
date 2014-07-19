@@ -1,0 +1,5 @@
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

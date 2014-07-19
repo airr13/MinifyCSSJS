@@ -1,0 +1,6 @@
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\bin\Release\MinifyCSSJS.exe.config
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\bin\Release\MinifyCSSJS.exe
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\bin\Release\MinifyCSSJS.pdb
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\obj\Debug\MinifyCSSJS.exe
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\obj\Debug\MinifyCSSJS.pdb
+E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\obj\Debug\MinifyCSSJS.csprojResolveAssemblyReference.cache
