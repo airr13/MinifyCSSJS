@@ -68,11 +68,14 @@ namespace MinifyCSSJS
                     {
                         Console.WriteLine("SUCCESS: Compressed & Minified CSS FIle - {0}", targetFilePath);
                     }
-                    fi = new FileInfo(targetFilePath);
-                    compressedFileSize = fi.Length;
-                    Console.WriteLine("Total Css File Size    - {0} Bytes", totalFileSize);
-                    Console.WriteLine("Minified Css File Size - {0} Bytes", compressedFileSize);
-                    Console.WriteLine("Compression Ratio      - {0} %", ((totalFileSize - compressedFileSize) * 100) / totalFileSize);
+                    if (totalFileSize != 0)
+                    {
+                        fi = new FileInfo(targetFilePath);
+                        compressedFileSize = fi.Length;
+                        Console.WriteLine("Total Css File Size    - {0} Bytes", totalFileSize);
+                        Console.WriteLine("Minified Css File Size - {0} Bytes", compressedFileSize);
+                        Console.WriteLine("Compression Ratio      - {0} %", ((totalFileSize - compressedFileSize) * 100) / totalFileSize);
+                    }
                 }
             }
             catch (Exception ex)

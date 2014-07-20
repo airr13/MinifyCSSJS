@@ -4,3 +4,9 @@ E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\bin\Rel
 E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\obj\Debug\MinifyCSSJS.exe
 E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\obj\Debug\MinifyCSSJS.pdb
 E:\Project Related\.net workspace\Projects\MinifyCSS\ConsoleApplication1\obj\Debug\MinifyCSSJS.csprojResolveAssemblyReference.cache
+E:\GitHub\MinifyCSSJS\trunk\bin\Release\MinifyCSSJS.exe.config
+E:\GitHub\MinifyCSSJS\trunk\bin\Release\MinifyCSSJS.exe
+E:\GitHub\MinifyCSSJS\trunk\bin\Release\MinifyCSSJS.pdb
+E:\GitHub\MinifyCSSJS\trunk\obj\Debug\MinifyCSSJS.csprojResolveAssemblyReference.cache
+E:\GitHub\MinifyCSSJS\trunk\obj\Debug\MinifyCSSJS.exe
+E:\GitHub\MinifyCSSJS\trunk\obj\Debug\MinifyCSSJS.pdb
